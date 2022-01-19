@@ -2,9 +2,9 @@
 version: '3.8'
 
 services:
-  mkdocs:
-    container_name: nx-mkdocs
-    image: nx-mkdocs
+  demo-mkdocs:
+    container_name: demo-mkdocs
+    image: demo-mkdocs
     build:
       context: ./
       dockerfile: Dockerfile
