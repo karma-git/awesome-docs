@@ -11,3 +11,5 @@ $ docker-compose up
 ```
 
 > If you wanna publish a site at [GitHub Pages](https://pages.github.com/) yourself - it's recommended to fork this repo.
+>
+> Also, to make the site available you should go to `Settings -> Pages -> Source` and select `gh-pages` branch
